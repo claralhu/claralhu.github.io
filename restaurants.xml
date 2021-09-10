@@ -1,4 +1,4 @@
-<root>
+<restaurants>
     <restaurant>
         <id>0</id>
         <name>Kabana</name>
@@ -23,4 +23,4 @@
         <open>9am</open>
         <close>3pm</close>
     </restaurant>
-</root>
+</restaurants>
