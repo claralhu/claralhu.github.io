@@ -1,33 +1,38 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"nationalParksVisited": [{
+		"National Park": "Yosemite",
+		"State": "California",
+		"Number of Visits": 3,
+		"Year of First Visit": "2003"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"National Park": "Redwood",
+		"State": "California",
+		"Number of Visits": 2,
+		"Year of First Visit": "2006"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"National Park": "Yellowstone",
+		"State": "Wyoming, Montana, Idaho",
+		"Number of Visits": 1,
+		"Year of First Visit": "2009"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"National Park": "Joshua Tree",
+		"State": "California",
+		"Number of Visits": 4,
+		"Year of First Visit": "2017"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"National Park": "Zion",
+		"State": "Utah",
+		"Number of Visits": 1,
+		"Year of First Visit": "2018"
+	},
+	{
+		"National Park": "Automatically Generating Cause-and_Effect Questions from Passages",
+		"State": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
+		"Year of First Visit": "BEA Workshop"
 	}]
 	
 }
