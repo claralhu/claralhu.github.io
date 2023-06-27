@@ -1,0 +1,34 @@
+{
+	"nationalParksVisited": [{
+		"National Park": "Yosemite",
+		"State": "California",
+		"Number of Visits": 3,
+		"Year of First Visit": "2003"
+	},
+	{
+		"National Park": "Redwood",
+		"State": "California",
+		"Number of Visits": 2,
+		"Year of First Visit": "2006"
+	},
+	{
+		"National Park": "Yellowstone",
+		"State": "Wyoming, Montana, Idaho",
+		"Number of Visits": 1,
+		"Year of First Visit": "2009"
+	},
+	{
+		"National Park": "Joshua Tree",
+		"State": "California",
+		"Number of Visits": 4,
+		"Year of First Visit": "2017"
+	},
+	{
+		"National Park": "Zion",
+		"State": "Utah",
+		"Number of Visits": 1,
+		"Year of First Visit": "2018"
+	}
+]
+	
+}
